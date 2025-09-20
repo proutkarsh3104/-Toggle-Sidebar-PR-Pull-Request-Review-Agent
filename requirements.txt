@@ -1,0 +1,9 @@
+# For making API calls
+requests
+# For static code analysis
+flake8
+radon
+# For AI suggestions
+google-generativeai
+# For loading environment variables
+python-dotenv
